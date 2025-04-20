@@ -36,7 +36,7 @@ const Makara = {
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> 🙎 Makara | 💻 Full Stack Designer | 🛸 Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> 🙎 Makara | 💻 Full Stack | 🛸 Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
@@ -56,7 +56,7 @@ const Makara = {
 <p align="center">
 
 
-  <h3> I'm 18 years old Full-Stack designer from turkey</h3>
+  <h3> I'm 18 years old Full-Stack Developer, Designer from Türkiye </h3>
 </p>
 
  - 🥀 Learning Adobe & JavaScript & c++ & Python & html
